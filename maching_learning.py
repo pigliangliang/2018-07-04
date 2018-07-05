@@ -28,23 +28,9 @@ bagging 和boosting 区别
 之适用于二分类，给所有的弱分类器进行线性加权。
 
 3）Gradient Boosting + 决策树 = GBDT
-
-  
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
 '''
 
-"""
-一、决策树
 
 
-"""
